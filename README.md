@@ -7,8 +7,8 @@
 🌱 Currently Learning:
 - Full Stack Development
 - Angular
-- Google Cloud Platform (GCP)
-- Data Structures & Algorithms
+- Google Cloud Fundamentals
+- Data Structures and Algorithms (DSA)
 
 ## 🛠️ Skills
 
@@ -21,7 +21,7 @@
 - Git & GitHub
 - MongoDB
 - DevOps Fundamentals
-- Cloud Computing Fundamentals
+- Cloud Computing 
 
 ## 🚀 Projects
 
